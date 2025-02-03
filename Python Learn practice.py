@@ -15,8 +15,13 @@ print (" i am work in Layer One X cyptomarket company ")
 
 
 # str is identifier  
-str =  "my name is "
+str =  "my name is  mayur maruti walunj "
+
+programm = "this is practic ecode from youtube which is more usefull python tutorial"
 
 print(str)
+
+
+print(programm)
 
 
