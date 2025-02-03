@@ -25,3 +25,18 @@ print(str)
 print(programm)
 
 
+
+
+
+#  Day 6 python learn (Input and output )
+
+
+
+print("python laerning 2025")
+
+
+
+
+
+
+
