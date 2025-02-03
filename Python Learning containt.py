@@ -133,10 +133,7 @@ print("mayur walunj learning python")
 
 # print("number :", numer + 10 )
 
-multiplier = int(input("enter Number to Multiplie by 20 : "))
-
-
-print("result :", multiplier * 20) 
+# 
 
 
 
@@ -198,5 +195,50 @@ total_reps = (set1sum + set2sum + set3sum + set4sum + set5sum)
 
 
 print("Total Reps : ", total_reps)
+
+# Day 9 python learning  (comparioson)
+
+            # Comparison operators compare two values/variables and return a Boolean result: True or False.
+
+            # Example:
+            # a = 3
+            # b = 5
+
+            # print (a == b)    # False
+
+            # Operator
+            # == Is Equal To  3 == 5 gives us False
+            # != Not Equal To  3 != 5 gives us True
+
+            # ==========
+
+a = 1 
+b = 2 
+c= 2 
+
+d = 5
+
+
+print(a < b)
+
+print(b == c)
+
+print(c > d)
+
+print(a <= b)
+
+print(b >= c)
+
+print(c!= d)
+
+
+
+
+
+
+
+
+
+
 
 
