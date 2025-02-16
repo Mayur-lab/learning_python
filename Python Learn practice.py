@@ -1,42 +1,35 @@
-#  Day 1 python learn (Hello word )
+# a = [1, 2, 3, 4, 5]
+
+# print(2 in a)
+
+# print(6 in a)
+
+# print(20 not in a)  
 
 
-print("hello")
-print("walunj")
+fruits = ["apple", "banana", "cherry"]
 
-print("walunj maruit walunj")
+print("banana" in fruits)
 
-
-print (" i am work in Layer One X cyptomarket company ")
-
-
-
-#  Day 2 python learn (keywords & identifiers)
-
-
-# str is identifier  
-str =  "my name is  mayur maruti walunj "
-
-programm = "this is practic ecode from youtube which is more usefull python tutorial"
-
-print(str)
-
-
-print(programm)
+print("apple" not in fruits)
 
 
 
+tuple = ("apple", 689, "cherry")
 
-
-#  Day 6 python learn (Input and output )
-
-
-
-print("python laerning 2025")
+print(689 in tuple)
 
 
 
+dict = {"name": "John", "age": 30, "city": "New York"}  
 
 
+print("age" in dict)
+
+
+print("city" in dict)
+
+
+print(dict.get("age"))
 
 

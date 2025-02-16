@@ -232,11 +232,82 @@ print(b >= c)
 print(c!= d)
 
 
+                        # Day 10 python learning (logical operators)
+
+                        # Logical operators are used to check whether an expression is True or False. They are used in decision-making.
+
+                        # Example:
+                        # a = 5
+                        # b = 6
+
+                        # Operator
+                        # and - a and b - True only if both the operands are True
+                        # or - a or b - True if at least one of the operands is True
+                        # not - not a - True if the operand is False and vice-versa.
+
+
+
+            a = 5
+            b = 6
+
+print((a > 3) and (b < 7)) 
+
+
+                # Day 11 python learning (membership operators)
+                
+                # Membership operators are used to test if a value is present in a sequence like list, tuple, set, etc.
+                
+                # Example:
+                # a = [1, 2, 3, 4, 5]
+                
+                # Operator
+                # in - True if the value is present in the sequence
+                # not in - True if the value is not present in the sequence.
+                
+                # ==========
+# a = [1, 2, 3, 4, 5]
+
+# print(2 in a)
+
+# print(6 in a)
+
+# print(20 not in a)  
+
+
+fruits = ["apple", "banana", "cherry"]
+
+print("banana" in fruits)
+
+print("apple" not in fruits)
+
+
+
+tuple = ("apple", 689, "cherry")
+
+print(689 in tuple)
+
+
+
+dict = {"name": "John", "age": 30, "city": "New York"}  
+
+
+print("age" in dict)
+
+
+print("city" in dict)
+
+
+print(dict.get("age"))
 
 
 
 
 
+
+
+
+
+ 
 
 
 
